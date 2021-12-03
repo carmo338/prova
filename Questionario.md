@@ -11,7 +11,10 @@ Grava as alterações feitas no repositório
 umificar um historico 
 
 5 - O que é pull?
-busca o baixar 
+puchar 
+
+6 - o que push?
+publicar modificaçãos locais
 
 7 - O que é branch?
 permitir criar e escluir ramificações
