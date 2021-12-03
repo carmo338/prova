@@ -12,3 +12,6 @@ umificar um historico
 
 5 - O que é pull?
 busca o baixar 
+
+7 - O que é branch?
+permitir criar e escluir ramificações 
