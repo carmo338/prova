@@ -14,4 +14,7 @@ umificar um historico
 busca o baixar 
 
 7 - O que é branch?
-permitir criar e escluir ramificações 
+permitir criar e escluir ramificações
+
+8 - O que é pull request?
+pedido pelo repositorio original 
