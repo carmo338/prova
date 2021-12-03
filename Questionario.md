@@ -17,4 +17,10 @@ busca o baixar
 permitir criar e escluir ramificações
 
 8 - O que é pull request?
-pedido pelo repositorio original 
+pedido pelo repositorio original
+
+9 - O que é fork?
+ copia do repositorio 
+
+10 - O que é um VCS?
+Um Sistema de Controle de Versão 
